@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/hatemhenchir/Social-proof-section)
-- Live Site URL: [GitHub Pages Live URL](https://hatemhenchir.github.io/Social-proof-section/)
+- Solution URL: [Code on GitHub](https://github.com/hatemhenchir/Social-proof-section-solution)
+- Live Site URL: [GitHub Pages Live URL](https://hatemhenchir.github.io/Social-proof-section-solution/)
 
 ## My process
 
